@@ -71,6 +71,7 @@ h1{
     border-radius: 100%;
     margin-top: 10px;
     margin-bottom: 10px;
+  
 }
 h1 ion-icon{
     color: rgba(255, 217, 0, 0.637);
@@ -84,17 +85,21 @@ h2 ion-icon{
     border: 2px solid gold;
 }
 h3{
+    background-image: url(DiceGif111.gif);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
     border: 2px solid gold;
-    color: darkgray;
-    text-shadow: 2px 2px 4px black;
+    color: rgba(0, 0, 0, 0.589);
+    text-shadow: 2px 2px 4px gold;
     background-color: rgba(0, 0, 0, 0.445);
-    border-radius: 100%;
-    width: 150px;
+    border-radius: 10px;
+    width: 140px;
     margin: 0 auto;
-    padding: 5px; 
+    
 }
 h3 ion-icon{
-    color: rgba(255, 217, 0, 0.596);
+    color: rgba(138, 93, 9, 0.788);
     font-size: 20px;
    
 }
