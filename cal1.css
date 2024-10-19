@@ -53,7 +53,7 @@ button{
     border-radius: 15px;
 }
 button:active{
-    background-color: magenta;
+    background-color: lightblue;
 }
 .operators{
     background-color: rgba(255, 166, 0, 0.863);
